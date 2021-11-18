@@ -40,7 +40,7 @@ sections:
         fontStyle: normal
         textAlign: left
         margin:
-          - mt-9
+          - mt-2
           - mb-2
       subtitle:
         fontWeight: '400'
